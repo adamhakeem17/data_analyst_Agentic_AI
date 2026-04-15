@@ -48,7 +48,7 @@ ollama pull llama3
 
 # 2. Clone and install deps
 git clone https://github.com/adamhakeem17/data_analyst_Agentic_AI
-cd ai-data-analyst-agent
+cd data_analyst_agentic_AI
 pip install -r requirements.txt
 
 # 3. (Optional) Generate a demo dataset
